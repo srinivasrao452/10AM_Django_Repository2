@@ -1,4 +1,4 @@
-
+# from server to local
 from django.contrib import admin
 
 from OneToOne_App.models import Student,Cource
